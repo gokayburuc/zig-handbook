@@ -1,11 +1,10 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
-- [Awesome Zig](./awesome-zig.md)
-- [Import Libraries](./import-libraries.md)
-- [Data Types](./data-types.md)
-- [Try](./try.md)
-- [main function](./main-function.md)
-- [enums](./enums.md)
-- [Funtions](./functions.md)
-- [Switch](./switch.md)
+
+## Zig Fundamentals
+
+- [Zig - Hello World](./zig_hello_world.md)
+- [Zig - Comments](./zig_comments.md)
+- [Zig - Identifiers](./zig_identifiers.md)
+- [Zig - Values](./zig_values.md)
+- [Zig - String Literals and Unicode Point Literals](./zig_literals.md)
